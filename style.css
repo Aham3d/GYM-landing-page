@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.nav-bar {
+    display: flex;
+    height: 68px;
+}
+
+.nav-bar  li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.top-left {
+    width: 50%;
+    height: 50vh;
+}
+
+.top-right {
+    width: 50%;
+    height: 50vh;
+}
+
+.section-1 {
+    height: 50vh;
+}
+
+.section-2{
+    padding-left: 63px;
+    padding-right: 63px;
+
+}
+
+.section-2 p {
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.section-2 h1 {
+    font-size: 2rem;
+}
+
+.box {
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box li {
+    margin: 12px 2px;
+
+}
